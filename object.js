@@ -20,9 +20,16 @@ var myComputer = {
     color: 'silver',
     processor: 'i7'
 }
+// set
 
 
-// // console.log(myComputer)
+
+console.log(myComputer);
+myComputer.processor = 'i30'
+console.log(myComputer);
+
+
+
 // // console.log(myComputer.price)//obj.property
 // // //keys
 // const keys = Object.keys(mobile);
