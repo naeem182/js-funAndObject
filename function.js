@@ -1,3 +1,19 @@
+
+
+/* 
+function functionName (parameters){
+    function body
+    return 
+}
+
+var returnedValue = functionName(parameters value) 
+*/
+
+
+
+
+
+
 // function declaration
 function startFan() {
     console.log('Stand up');
