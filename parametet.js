@@ -8,4 +8,5 @@ function misti_niya_ay(tk) {
 
 }
 // call the function
-misti_niya_ay(500)
+misti_niya_ay(500);
+console.log("ei neo misti")
