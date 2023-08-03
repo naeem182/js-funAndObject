@@ -28,10 +28,13 @@ console.log(myComputer);
 myComputer.processor = 'i30'
 console.log(myComputer);
 
-
+// specific property name
 
 // // console.log(myComputer.price)//obj.property
-// // //keys
+//array
+const brandn = myComputer['brand']
+console.log(brandn)
+ // //keys
 // const keys = Object.keys(mobile);
 // // console.log(keys);
 
